@@ -104,6 +104,5 @@ This dashboard is suitable for:
 ---
 
 ## Author
-Rohi  
-Undergraduate Student  
-Focus Area: Data Analytics and Visualization
+Janani D
+Linkedin: https://www.linkedin.com/in/janani-d-157204361/
