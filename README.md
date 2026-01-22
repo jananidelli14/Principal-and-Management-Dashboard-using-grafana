@@ -81,7 +81,7 @@ These filters allow principals and administrators to analyze both high-level sum
 - Grafana for interactive dashboard visualization
 - PostgreSQL as the analytical data source
 - SQL for data aggregation and analytical logic
-- CSV-based dataset representing hackathon participation and outcomes
+- CSV-based synthetic dataset representing hackathon participation and outcomes
 
 ---
 
